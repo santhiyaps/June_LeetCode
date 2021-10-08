@@ -1,4 +1,4 @@
-package week1;
+package june2021;
 
 public class PaintHouse {
     public int minCost(int[][] costs) {
